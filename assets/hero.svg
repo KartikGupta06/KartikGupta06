@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 380" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 300" width="100%" height="100%">
   <!-- Background matching GitHub Dark Mode -->
-  <rect width="830" height="380" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect width="830" height="300" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
 
   <!-- Title Bar -->
   <line x1="0" y1="35" x2="830" y2="35" stroke="#30363D" stroke-width="1.5"/>
@@ -14,67 +14,68 @@
   <text x="415" y="22" fill="#8B949E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold" text-anchor="middle">KARTIK OS - Developer Workspace (v1.0.0)</text>
 
   <!-- Left / Right Panel Separator -->
-  <line x1="280" y1="35" x2="280" y2="380" stroke="#30363D" stroke-width="1.5"/>
+  <line x1="280" y1="35" x2="280" y2="300" stroke="#30363D" stroke-width="1.5"/>
 
   <!-- Left Side: ASCII Portrait Section -->
-  <text x="140" y="65" fill="#8B949E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="11" text-anchor="middle">[AVATAR.ASC]</text>
+  <text x="140" y="60" fill="#8B949E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="11" text-anchor="middle">[AVATAR.ASC]</text>
   
-  <!-- Casual Hoodie Developer Silhouette -->
-  <text x="140" y="95" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="11" text-anchor="middle" font-weight="bold">
-    <tspan x="140" dy="0">          _.-'''''''-._        </tspan>
-    <tspan x="140" dy="16">        .'  ________   '.      </tspan>
-    <tspan x="140" dy="16">       /   /        \    \     </tspan>
-    <tspan x="140" dy="16">      |   |  O    O  |   |     </tspan>
-    <tspan x="140" dy="16">      |   |    ▲     |   |     </tspan>
-    <tspan x="140" dy="16">      |    \  ===  /     |     </tspan>
-    <tspan x="140" dy="16">       \    \_____/     /      </tspan>
-    <tspan x="140" dy="16">        '.   '---'    .'       </tspan>
-    <tspan x="140" dy="16">         /'-.______.-'\        </tspan>
-    <tspan x="140" dy="16">        /   \      /   \       </tspan>
-    <tspan x="140" dy="16">       /     \____/     \      </tspan>
-    <tspan x="140" dy="16">      /                  \     </tspan>
+  <!-- Minimalist Developer Silhouette -->
+  <text x="140" y="85" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="11" text-anchor="middle" font-weight="bold">
+    <tspan x="140" dy="0">            _______            </tspan>
+    <tspan x="140" dy="14">         .-"       "-.         </tspan>
+    <tspan x="140" dy="14">        /             \        </tspan>
+    <tspan x="140" dy="14">       |   _________   |       </tspan>
+    <tspan x="140" dy="14">       |  /         \  |       </tspan>
+    <tspan x="140" dy="14">       | |   O   O   | |       </tspan>
+    <tspan x="140" dy="14">       | |     ▲     | |       </tspan>
+    <tspan x="140" dy="14">       |  \   ---   /  |       </tspan>
+    <tspan x="140" dy="14">        \  '-------'  /        </tspan>
+    <tspan x="140" dy="14">         '--.____.--'          </tspan>
+    <tspan x="140" dy="14">           /      \            </tspan>
+    <tspan x="140" dy="14">         /  \    /  \          </tspan>
+    <tspan x="140" dy="14">        /__  \  /  __\         </tspan>
   </text>
 
   <!-- Right Side: Terminal Information Panel -->
-  <text x="310" y="70" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">guest@kartik-os:~$ neofetch --system</text>
+  <text x="310" y="70" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ neofetch --system</text>
 
   <!-- Info Data Rows -->
   <!-- OS -->
-  <text x="310" y="100" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">OS:</text>
-  <text x="420" y="100" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Windows 11</text>
+  <text x="310" y="95" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">OS:</text>
+  <text x="420" y="95" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Windows 11</text>
 
   <!-- Editor -->
-  <text x="310" y="122" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Editor:</text>
-  <text x="420" y="122" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">VS Code</text>
+  <text x="310" y="116" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Editor:</text>
+  <text x="420" y="116" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">VS Code</text>
 
   <!-- Shell -->
-  <text x="310" y="144" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Shell:</text>
-  <text x="420" y="144" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">PowerShell</text>
+  <text x="310" y="137" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Shell:</text>
+  <text x="420" y="137" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">PowerShell</text>
 
   <!-- Languages -->
-  <text x="310" y="166" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Languages:</text>
-  <text x="420" y="166" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Python, Java, JavaScript, TypeScript</text>
+  <text x="310" y="158" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Languages:</text>
+  <text x="420" y="158" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Python, Java, JavaScript, TypeScript</text>
 
   <!-- Frameworks -->
-  <text x="310" y="188" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Frameworks:</text>
-  <text x="420" y="188" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Next.js, Flutter, FastAPI</text>
+  <text x="310" y="179" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Frameworks:</text>
+  <text x="420" y="179" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Next.js, Flutter, FastAPI</text>
 
   <!-- Database -->
-  <text x="310" y="210" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Database:</text>
-  <text x="420" y="210" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">PostgreSQL, Supabase</text>
+  <text x="310" y="200" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Database:</text>
+  <text x="420" y="200" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">PostgreSQL, Supabase</text>
 
   <!-- Status -->
-  <text x="310" y="232" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Status:</text>
+  <text x="310" y="221" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Status:</text>
   
-  <text x="420" y="232" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Building SafeRoute AI</tspan></text>
-  <text x="420" y="250" fill="#FFBD2E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Learning Odoo</tspan></text>
-  <text x="420" y="268" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Open Source</tspan></text>
-  <text x="420" y="286" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="bold">Hackathon Mode : ACTIVE</tspan></text>
+  <text x="420" y="221" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Building SafeRoute AI</tspan></text>
+  <text x="420" y="238" fill="#FFBD2E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Learning Odoo</tspan></text>
+  <text x="420" y="255" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="normal">Open Source</tspan></text>
+  <text x="420" y="272" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">● <tspan fill="#F0F6FC" font-weight="bold">Hackathon Mode : ACTIVE</tspan></text>
 
   <!-- Terminal Next Prompt -->
-  <text x="310" y="325" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">guest@kartik-os:~$ </text>
+  <text x="310" y="290" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ </text>
   
   <!-- Blinking Cursor character -->
-  <text x="475" y="325" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13">
+  <text x="445" y="290" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>█</text>
 </svg>
