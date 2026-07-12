@@ -3,6 +3,10 @@
   <img src="assets/hero.svg" alt="Kartik OS Terminal Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikGupta06&color=58a6ff&style=flat-square&label=SYSTEM_VISITS" alt="System Visits" />
+</p>
+
 <!-- SECTION 2: BOOT SEQUENCE -->
 ```text
 kartik@github:~$ boot kartik
@@ -43,6 +47,11 @@ identity:
     - System Design
   mission: Build impactful AI products with exceptional user experiences.
 ```
+
+### kartik@github:~$ system_trophies --rank
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikGupta06&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
+</p>
 
 <!-- SECTION 5: TECH STACK -->
 ### kartik@github:~$ systemctl status tech-stack
@@ -103,13 +112,29 @@ PID      PROJECT NAME      TYPE          STATUS
 <summary><b>📊 System Telemetry</b></summary>
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikGupta06&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=f0f6fc&border_color=30363d)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikGupta06&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikGupta06&layout=compact&langs_count=8&theme=github_dark&bg_color=00000000&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikGupta06&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=f0f6fc&border_color=30363d)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikGupta06&theme=dark&background=00000000&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KartikGupta06&theme=black-on-white&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=f0f6fc&sideLabels=f0f6fc&dates=8b949e&border=30363d)
+#### Weekly Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikGupta06&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KartikGupta06&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=false&border_color=30363d)
+#### Interactive Grid Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikGupta06/KartikGupta06/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikGupta06/KartikGupta06/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KartikGupta06/KartikGupta06/output/github-contribution-grid-snake.svg" width="98%">
+  </picture>
+</p>
 
 </details>
 
