@@ -1,6 +1,6 @@
 <!-- SECTION 1: HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KartikGupta06/KartikGupta06/main/assets/hero.svg" alt="Kartik OS Terminal Banner" width="100%">
+  <img src="assets/hero.svg" alt="Kartik OS Terminal Banner" width="100%">
 </p>
 
 <p align="center">
