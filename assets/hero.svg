@@ -13,48 +13,41 @@
   <!-- Terminal Title -->
   <text x="415" y="22" fill="#8B949E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold" text-anchor="middle">KARTIK OS - Developer Workspace (v1.0.0)</text>
 
-  <!-- Terminal Content: WHOAMI Section -->
+  <!-- Left / Right Panel Separator (30% Left Column) -->
+  <line x1="250" y1="35" x2="250" y2="300" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- Left Column: ASCII Placeholder (30% width) -->
+  <text x="125" y="168" fill="#8B949E" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold" text-anchor="middle">[ ASCII PROFILE ]</text>
+
+  <!-- Right Column: Terminal Content -->
   <!-- Prompt line -->
-  <text x="30" y="65" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ whoami</text>
+  <text x="280" y="70" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ whoami</text>
 
-  <!-- COLUMN 1: Identity -->
-  <text x="30" y="90" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">identity:</text>
-  
-  <text x="45" y="110" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">name:</text>
-  <text x="120" y="110" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Kartik Gupta</text>
+  <!-- Info Data Rows -->
+  <!-- Name -->
+  <text x="280" y="105" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Name      ::</text>
+  <text x="385" y="105" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Kartik Gupta</text>
 
-  <text x="45" y="130" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">role:</text>
-  <text x="120" y="130" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">AI/ML Student</text>
+  <!-- Role -->
+  <text x="280" y="130" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Role      ::</text>
+  <text x="385" y="130" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">AI/ML Student</text>
 
-  <text x="45" y="150" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">country:</text>
-  <text x="120" y="150" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">India</text>
+  <!-- Focus -->
+  <text x="280" y="155" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Focus     ::</text>
+  <text x="385" y="155" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">AI • Full Stack • Odoo</text>
 
-  <!-- COLUMN 2: Current Focus -->
-  <text x="300" y="90" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">current_focus:</text>
-  
-  <text x="315" y="110" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">AI-powered Applications</tspan></text>
-  <text x="315" y="130" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">Full Stack Development</tspan></text>
-  <text x="315" y="150" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">Odoo Development</tspan></text>
-  <text x="315" y="170" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">Hackathon Projects</tspan></text>
-  <text x="315" y="190" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">UI/UX Engineering</tspan></text>
+  <!-- Learning -->
+  <text x="280" y="180" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Learning  ::</text>
+  <text x="385" y="180" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">AI Agents • Next.js • FastAPI</text>
 
-  <!-- COLUMN 3: Learning -->
-  <text x="560" y="90" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">learning:</text>
-  
-  <text x="575" y="110" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">AI Agents</tspan></text>
-  <text x="575" y="130" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">FastAPI</tspan></text>
-  <text x="575" y="150" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">Next.js</tspan></text>
-  <text x="575" y="170" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">Odoo Framework</tspan></text>
-  <text x="575" y="190" fill="#3FB950" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">- <tspan fill="#F0F6FC" font-weight="normal">System Design</tspan></text>
-
-  <!-- Mission Section (below columns) -->
-  <text x="30" y="220" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">mission:</text>
-  <text x="45" y="240" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Build impactful AI products with exceptional user experiences.</text>
+  <!-- Mission -->
+  <text x="280" y="205" fill="#58A6FF" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12" font-weight="bold">Mission   ::</text>
+  <text x="385" y="205" fill="#F0F6FC" font-family="Fira Code, Consolas, Monaco, monospace" font-size="12">Building impactful AI products</text>
 
   <!-- Terminal Next Prompt -->
-  <text x="30" y="275" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ </text>
+  <text x="280" y="245" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13" font-weight="bold">kartik@github:~$ </text>
   
   <!-- Blinking Cursor character -->
-  <text x="165" y="275" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13">
+  <text x="415" y="245" fill="#39FF14" font-family="Fira Code, Consolas, Monaco, monospace" font-size="13">
     <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>█</text>
 </svg>

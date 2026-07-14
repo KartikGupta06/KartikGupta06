@@ -7,17 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=KartikGupta06&color=58a6ff&style=flat-square&label=SYSTEM_VISITS" alt="System Visits" />
 </p>
 
-<!-- SECTION 2: BOOT SEQUENCE -->
-```text
-kartik@github:~$ boot kartik
-
-[  0.012540] Loading GitHub Profile... [ OK ]
-[  0.184920] Loading Projects...         [ OK ]
-[  0.392011] Loading AI Models...        [ OK ]
-[  0.640103] Loading Portfolio...        [ OK ]
-[  0.892015] System Ready.
-```
-
 <!-- SECTION 3: ANIMATED TYPING -->
 ### kartik@github:~$ whoami --role
 <picture>
@@ -33,16 +22,43 @@ kartik@github:~$ boot kartik
 
 <!-- SECTION 5: TECH STACK -->
 ### kartik@github:~$ systemctl status tech-stack
+
 ```text
 ● tech-stack.service - System Technology Stack
      Loaded: loaded (/etc/systemd/system/tech-stack.service; enabled)
      Active: active (running) since Sun 2026-07-12 20:53:05 IST
-
-[LANGUAGES]    Python · Java · JavaScript · TypeScript
-[FRAMEWORKS]   Next.js · Flutter · FastAPI
-[DATABASE]     PostgreSQL · Supabase
-[TOOLS]        Git · GitHub · Figma · Framer Motion · VS Code
 ```
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://cdn.simpleicons.org/python/F0F6FC" width="16" height="16" alt="Python" valign="middle"/> <b>Python</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/java/F0F6FC" width="16" height="16" alt="Java" valign="middle"/> <b>Java</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F0F6FC" width="16" height="16" alt="JavaScript" valign="middle"/> <b>JavaScript</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/F0F6FC" width="16" height="16" alt="TypeScript" valign="middle"/> <b>TypeScript</b>
+</p>
+
+<p align="center">
+  <b>Frameworks</b><br/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/F0F6FC" width="16" height="16" alt="Next.js" valign="middle"/> <b>Next.js</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/F0F6FC" width="16" height="16" alt="Flutter" valign="middle"/> <b>Flutter</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/F0F6FC" width="16" height="16" alt="FastAPI" valign="middle"/> <b>FastAPI</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/F0F6FC" width="16" height="16" alt="Tailwind" valign="middle"/> <b>Tailwind</b>
+</p>
+
+<p align="center">
+  <b>Database</b><br/>
+  <img src="https://cdn.simpleicons.org/postgresql/F0F6FC" width="16" height="16" alt="PostgreSQL" valign="middle"/> <b>PostgreSQL</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/F0F6FC" width="16" height="16" alt="Supabase" valign="middle"/> <b>Supabase</b>
+</p>
+
+<p align="center">
+  <b>Tools</b><br/>
+  <img src="https://cdn.simpleicons.org/git/F0F6FC" width="16" height="16" alt="Git" valign="middle"/> <b>Git</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/F0F6FC" width="16" height="16" alt="GitHub" valign="middle"/> <b>GitHub</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/F0F6FC" width="16" height="16" alt="VS Code" valign="middle"/> <b>VS Code</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F0F6FC" width="16" height="16" alt="Figma" valign="middle"/> <b>Figma</b> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/F0F6FC" width="16" height="16" alt="Framer Motion" valign="middle"/> <b>Framer Motion</b>
+</p>
 
 <!-- SECTION 6: CURRENT PROJECTS -->
 ### kartik@github:~$ project_status --all
@@ -63,13 +79,13 @@ PID      PROJECT NAME      TYPE          STATUS
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikGupta06&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikGupta06&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikGupta06&layout=compact&langs_count=8&theme=github_dark&bg_color=00000000&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikGupta06&layout=compact&langs_count=8&theme=github_dark&bg_color=00000000&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikGupta06&theme=dark&background=00000000&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=KartikGupta06&theme=dark&background=00000000&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 #### Weekly Contribution Activity
