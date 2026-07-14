@@ -29,42 +29,47 @@
 <!-- SECTION 6: CURRENT PROJECTS -->
 ### kartik@github:~$ project_monitor --active
 
-```text
-┌── [001] SafeRoute AI ─────────────────────────────────────────────────────────┐
-│ Status      : 🟢 RUNNING (Active Development)                                 │
-│ Description : AI-powered navigation for optimal emergency vehicle routing     │
-│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  85%       │
-│ Tech Stack  : Python • PyTorch • OSMnx • FastAPI                              │
-└───────────────────────────────────────────────────────────────────────────────┘
-
-┌── [002] HireMind AI ──────────────────────────────────────────────────────────┐
-│ Status      : 🟡 BUILDING (Core Refinement)                                   │
-│ Description : LLM-driven candidate evaluation & agentic recruitment suite     │
-│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░  60%       │
-│ Tech Stack  : Next.js • FastAPI • Supabase • OpenAI API                       │
-└───────────────────────────────────────────────────────────────────────────────┘
-
-┌── [003] EduSensei ────────────────────────────────────────────────────────────┐
-│ Status      : 🔵 PLANNING (Architecting)                                      │
-│ Description : Personalized AI tutor with interactive adaptive learning        │
-│ Progress    : ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%       │
-│ Tech Stack  : Next.js • Flask • PostgreSQL • Llama-3                          │
-└───────────────────────────────────────────────────────────────────────────────┘
-
-┌── [004] AssetFlow ────────────────────────────────────────────────────────────┐
-│ Status      : ✅ COMPLETED (Production Ready)                                 │
-│ Description : Enterprise blockchain asset tracker & smart contract manager    │
-│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100%      │
-│ Tech Stack  : Flutter • FastAPI • PostgreSQL • Solidity                       │
-└───────────────────────────────────────────────────────────────────────────────┘
-
-┌── [005] Portfolio OS ─────────────────────────────────────────────────────────┐
-│ Status      : 🟣 RESEARCH (Experimental)                                      │
-│ Description : Futuristic terminal-style developer portfolio system            │
-│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  70%       │
-│ Tech Stack  : Next.js • Tailwind CSS • Framer Motion                          │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 SafeRoute AI</h3>
+      <p>AI-powered navigation for optimal emergency vehicle routing</p>
+      <p>🟢 <font color="#3FB950"><b>85%</b> &nbsp; ▰▰▰▰▰▰▰▰▱▱</font></p>
+      <code>Python</code> &bull; <code>PyTorch</code> &bull; <code>OSMnx</code> &bull; <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 HireMind AI</h3>
+      <p>LLM-driven candidate evaluation & recruitment agents</p>
+      <p>🟡 <font color="#D29922"><b>60%</b> &nbsp; ▰▰▰▰▰▰▱▱▱▱</font></p>
+      <code>Next.js</code> &bull; <code>FastAPI</code> &bull; <code>Supabase</code> &bull; <code>OpenAI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 EduSensei</h3>
+      <p>Personalized AI tutor with interactive adaptive learning</p>
+      <p>🔴 <font color="#F85149"><b>20%</b> &nbsp; ▰▰▱▱▱▱▱▱▱▱</font></p>
+      <code>Next.js</code> &bull; <code>Flask</code> &bull; <code>PostgreSQL</code> &bull; <code>Llama-3</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 EduUnify</h3>
+      <p>Unified educational platform for student resources & collaboration</p>
+      <p>🟢 <font color="#3FB950"><b>95%</b> &nbsp; ▰▰▰▰▰▰▰▰▰▱</font></p>
+      <code>Flutter</code> &bull; <code>Node.js</code> &bull; <code>MongoDB</code> &bull; <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Integrity AI</h3>
+      <p>AI-powered anti-cheating & proctoring software</p>
+      <p>🟡 <font color="#D29922"><b>45%</b> &nbsp; ▰▰▰▰▱▱▱▱▱▱</font></p>
+      <code>Python</code> &bull; <code>OpenCV</code> &bull; <code>TensorFlow</code> &bull; <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top">
+      &nbsp;
+    </td>
+  </tr>
+</table>
 
 <!-- SECTION 8: GITHUB STATS -->
 ### kartik@github:~$ system_telemetry --stats
