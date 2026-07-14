@@ -26,28 +26,6 @@ kartik@github:~$ boot kartik
   <img alt="Kartik's Roles" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&width=450&vCenter=true&lines=AI%2FML+Student;Hackathon+Builder;Full+Stack+Developer;UI%2FUX+Designer">
 </picture>
 
-<!-- SECTION 4: WHOAMI -->
-### kartik@github:~$ whoami
-```yaml
-identity:
-  name: Kartik Gupta
-  role: AI/ML Student
-  country: India
-  current_focus:
-    - AI-powered applications
-    - Full Stack Development
-    - Odoo Development
-    - Hackathon Projects
-    - UI/UX Engineering
-  learning:
-    - AI Agents
-    - FastAPI
-    - Next.js
-    - Odoo Framework
-    - System Design
-  mission: Build impactful AI products with exceptional user experiences.
-```
-
 ### kartik@github:~$ system_trophies --rank
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KartikGupta06&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
@@ -76,34 +54,6 @@ PID      PROJECT NAME      TYPE          STATUS
 004      AssetFlow         Enterprise    COMPLETED
 005      Portfolio OS      Frontend      BUILDING
 ```
-
-<!-- SECTION 7: FEATURED PROJECTS -->
-### kartik@github:~$ ls /var/www/projects
-
-### ┌─── 📁 `saferoute-ai`
-> **SafeRoute AI** — Real-time safety-optimized navigation platform using machine learning and historical routing data.
-> * **Tech Stack:** `Python` • `FastAPI` • `Flutter` • `PostgreSQL`
-> * **Repository:** Private / Coming Soon
-
-### ┌─── 📁 `hiremind-ai`
-> **HireMind AI** — Autonomous recruiter agent that automates screening, candidate assessments, and scheduling.
-> * **Tech Stack:** `Python` • `FastAPI` • `Next.js` • `Supabase`
-> * **Repository:** Private / Coming Soon
-
-### ┌─── 📁 `edusensei`
-> **EduSensei** — Personalized cognitive tutoring system powered by large language models to assist students.
-> * **Tech Stack:** `Python` • `FastAPI` • `Next.js` • `PostgreSQL`
-> * **Repository:** Private / Coming Soon
-
-### ┌─── 📁 `assetflow`
-> **AssetFlow** — Comprehensive enterprise asset tracking and flow management module built for Odoo.
-> * **Tech Stack:** `Python` • `JavaScript` • `PostgreSQL` • `Odoo Framework`
-> * **Repository:** Private / Coming Soon
-
-### ┌─── 📁 `portfolio-os`
-> **Portfolio OS** — A premium interactive terminal-style developer workstation portfolio.
-> * **Tech Stack:** `TypeScript` • `Next.js` • `Framer Motion` • `Tailwind`
-> * **Repository:** [github.com/KartikGupta06/KartikGupta06](https://github.com/KartikGupta06/KartikGupta06)
 
 <!-- SECTION 8: GITHUB STATS -->
 ### kartik@github:~$ system_telemetry --stats
