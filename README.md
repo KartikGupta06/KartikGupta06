@@ -7,14 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=KartikGupta06&color=58a6ff&style=flat-square&label=SYSTEM_VISITS" alt="System Visits" />
 </p>
 
-<!-- SECTION 3: ANIMATED TYPING -->
-### kartik@github:~$ whoami --role
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&width=450&vCenter=true&lines=AI%2FML+Student;Hackathon+Builder;Full+Stack+Developer;UI%2FUX+Designer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007F00&background=00000000&width=450&vCenter=true&lines=AI%2FML+Student;Hackathon+Builder;Full+Stack+Developer;UI%2FUX+Designer">
-  <img alt="Kartik's Roles" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&width=450&vCenter=true&lines=AI%2FML+Student;Hackathon+Builder;Full+Stack+Developer;UI%2FUX+Designer">
-</picture>
-
 ### kartik@github:~$ system_trophies --rank
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KartikGupta06&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%">
