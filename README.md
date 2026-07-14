@@ -12,11 +12,11 @@
 
 **Languages**
 
-<img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python" valign="middle"/> **Python** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/java" width="22" height="22" alt="Java" valign="middle"/> **Java** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript" width="22" height="22" alt="JavaScript" valign="middle"/> **JavaScript** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/typescript" width="22" height="22" alt="TypeScript" valign="middle"/> **TypeScript**
+<img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python" valign="middle"/> **Python** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript" width="22" height="22" alt="JavaScript" valign="middle"/> **JavaScript** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/typescript" width="22" height="22" alt="TypeScript" valign="middle"/> **TypeScript**
 
 **Frameworks**
 
-<img src="https://cdn.simpleicons.org/nextdotjs/white" width="22" height="22" alt="Next.js" valign="middle"/> **Next.js** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/flutter" width="22" height="22" alt="Flutter" valign="middle"/> **Flutter** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/fastapi" width="22" height="22" alt="FastAPI" valign="middle"/> **FastAPI** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss" width="22" height="22" alt="Tailwind" valign="middle"/> **Tailwind**
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="22" height="22" alt="Next.js" valign="middle"/> **Next.js** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/flutter" width="22" height="22" alt="Flutter" valign="middle"/> **Flutter** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/flask/white" width="22" height="22" alt="Flask" valign="middle"/> **Flask** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/fastapi" width="22" height="22" alt="FastAPI" valign="middle"/> **FastAPI** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tailwindcss" width="22" height="22" alt="Tailwind" valign="middle"/> **Tailwind**
 
 **Database**
 
@@ -24,17 +24,23 @@
 
 **Tools**
 
-<img src="https://cdn.simpleicons.org/git" width="22" height="22" alt="Git" valign="middle"/> **Git** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/white" width="22" height="22" alt="GitHub" valign="middle"/> **GitHub** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/visualstudiocode" width="22" height="22" alt="VS Code" valign="middle"/> **VS Code** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/figma" width="22" height="22" alt="Figma" valign="middle"/> **Figma** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/framer" width="22" height="22" alt="Framer Motion" valign="middle"/> **Framer Motion**
+<img src="https://cdn.simpleicons.org/git" width="22" height="22" alt="Git" valign="middle"/> **Git** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/white" width="22" height="22" alt="GitHub" valign="middle"/> **GitHub** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/figma" width="22" height="22" alt="Figma" valign="middle"/> **Figma** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/framer" width="22" height="22" alt="Framer Motion" valign="middle"/> **Framer Motion** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/n8n" width="22" height="22" alt="n8n" valign="middle"/> **n8n** &nbsp;&nbsp;&bull;&nbsp;&nbsp; **Antigravity**
 
 <!-- SECTION 6: CURRENT PROJECTS -->
-### kartik@github:~$ project_status --all
+### kartik@github:~$ project_monitor --all
+
 ```text
-PID      PROJECT NAME      TYPE          STATUS
-001      SafeRoute AI      AI/ML         RUNNING
-002      HireMind AI       Full-Stack    RUNNING
-003      EduSensei         AI/ML         BUILDING
-004      AssetFlow         Enterprise    COMPLETED
-005      Portfolio OS      Frontend      BUILDING
+OS: Kartik OS v1.0.1  |  Tasks: 5 Active Pipeline Jobs  |  Load average: 0.42, 0.57, 0.48
+CPU  [████████████████████░░░░░░░░░░]  66.7%  |  PID: 2840 (monitor.sh)
+MEM  [████████████░░░░░░░░░░░░░░░░░░]  40.0%  |  Uptime: 4d 12h 30m
+
+PID  PROJECT NAME      CATEGORY     STATUS        PROGRESS     CPU%  MEM%  ETA
+=================================================================================
+001  SafeRoute AI      AI/ML        [🟢 RUNNING]  ████████░░   24.8  12.4  2m 15s
+002  HireMind AI       Full-Stack   [🟡 BUILDING] ██████░░░░   18.5  14.2  8m 45s
+003  EduSensei         AI/ML        [🔵 PLANNING] ███░░░░░░░    2.1   3.5  15h
+004  AssetFlow         Enterprise   [✅ DONE]     ██████████    0.0   0.0  --
+005  Portfolio OS      Frontend     [🟡 BUILDING] █████████░    5.4   8.1  45s
 ```
 
 <!-- SECTION 8: GITHUB STATS -->
