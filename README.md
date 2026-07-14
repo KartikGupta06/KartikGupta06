@@ -27,20 +27,43 @@
 <img src="https://cdn.simpleicons.org/git" width="22" height="22" alt="Git" valign="middle"/> **Git** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/white" width="22" height="22" alt="GitHub" valign="middle"/> **GitHub** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/figma" width="22" height="22" alt="Figma" valign="middle"/> **Figma** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/framer" width="22" height="22" alt="Framer Motion" valign="middle"/> **Framer Motion** &nbsp;&nbsp;&bull;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/n8n" width="22" height="22" alt="n8n" valign="middle"/> **n8n** &nbsp;&nbsp;&bull;&nbsp;&nbsp; **Antigravity**
 
 <!-- SECTION 6: CURRENT PROJECTS -->
-### kartik@github:~$ project_monitor --all
+### kartik@github:~$ project_monitor --active
 
 ```text
-OS: Kartik OS v1.0.1  |  Tasks: 5 Active Pipeline Jobs  |  Load average: 0.42, 0.57, 0.48
-CPU  [████████████████████░░░░░░░░░░]  66.7%  |  PID: 2840 (monitor.sh)
-MEM  [████████████░░░░░░░░░░░░░░░░░░]  40.0%  |  Uptime: 4d 12h 30m
+┌── [001] SafeRoute AI ─────────────────────────────────────────────────────────┐
+│ Status      : 🟢 RUNNING (Active Development)                                 │
+│ Description : AI-powered navigation for optimal emergency vehicle routing     │
+│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  85%       │
+│ Tech Stack  : Python • PyTorch • OSMnx • FastAPI                              │
+└───────────────────────────────────────────────────────────────────────────────┘
 
-PID  PROJECT NAME      CATEGORY     STATUS        PROGRESS     CPU%  MEM%  ETA
-=================================================================================
-001  SafeRoute AI      AI/ML        [🟢 RUNNING]  ████████░░   24.8  12.4  2m 15s
-002  HireMind AI       Full-Stack   [🟡 BUILDING] ██████░░░░   18.5  14.2  8m 45s
-003  EduSensei         AI/ML        [🔵 PLANNING] ███░░░░░░░    2.1   3.5  15h
-004  AssetFlow         Enterprise   [✅ DONE]     ██████████    0.0   0.0  --
-005  Portfolio OS      Frontend     [🟡 BUILDING] █████████░    5.4   8.1  45s
+┌── [002] HireMind AI ──────────────────────────────────────────────────────────┐
+│ Status      : 🟡 BUILDING (Core Refinement)                                   │
+│ Description : LLM-driven candidate evaluation & agentic recruitment suite     │
+│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░  60%       │
+│ Tech Stack  : Next.js • FastAPI • Supabase • OpenAI API                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌── [003] EduSensei ────────────────────────────────────────────────────────────┐
+│ Status      : 🔵 PLANNING (Architecting)                                      │
+│ Description : Personalized AI tutor with interactive adaptive learning        │
+│ Progress    : ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%       │
+│ Tech Stack  : Next.js • Flask • PostgreSQL • Llama-3                          │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌── [004] AssetFlow ────────────────────────────────────────────────────────────┐
+│ Status      : ✅ COMPLETED (Production Ready)                                 │
+│ Description : Enterprise blockchain asset tracker & smart contract manager    │
+│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  100%      │
+│ Tech Stack  : Flutter • FastAPI • PostgreSQL • Solidity                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+
+┌── [005] Portfolio OS ─────────────────────────────────────────────────────────┐
+│ Status      : 🟣 RESEARCH (Experimental)                                      │
+│ Description : Futuristic terminal-style developer portfolio system            │
+│ Progress    : ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  70%       │
+│ Tech Stack  : Next.js • Tailwind CSS • Framer Motion                          │
+└───────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <!-- SECTION 8: GITHUB STATS -->
